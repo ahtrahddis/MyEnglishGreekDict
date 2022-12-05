@@ -20,7 +20,7 @@ Most probably, this used to be a Babylon community dictionary of the early 00's.
 
 ### About the author
 
-Unfortunately I can't find a lot about **George Giannacoiulis** (who I thank A LOT for creating this dictionary!), apart from an archived version of his website:
+Unfortunately I can't find a lot about **George Giannacoulis** (who I thank A LOT for creating this dictionary!), apart from an archived version of his website:
 
  [http://users.sch.gr/gyiann](https://web.archive.org/web/20080516145509/http://users.sch.gr/gyiann/)
 
