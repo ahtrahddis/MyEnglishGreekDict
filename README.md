@@ -20,15 +20,13 @@ Most probably, this used to be a Babylon community dictionary of the early 00's.
 
 ### About the author
 
-Unfortunately I can't find a lot about **George Giannacoiulis**, apart from an archived version of his website:
+Unfortunately I can't find a lot about **George Giannacoiulis** (who I thank A LOT for creating this dictionary!), apart from an archived version of his website:
 
  [http://users.sch.gr/gyiann](https://web.archive.org/web/20080516145509/http://users.sch.gr/gyiann/)
 
 ## License
 
-Until today it has been impossible to find any information with regards to the license of the original dictionary.
-
-This was most probably an unlicensed work.
+Until today it has been impossible to find any information with regards to the license of the original work and I assume that it was most probably unlicensed.
 
 However, this fork is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
