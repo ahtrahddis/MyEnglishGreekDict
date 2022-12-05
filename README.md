@@ -37,7 +37,7 @@ For the creation of this dictionary, I used the following procedure:
 
 
 1. I converted the **StarDict** dictionary to **tabfile** format (txt), using [pyglossary](https://aur.archlinux.org/packages/pyglossary).
-2. I created the **opf** and **html** files with **tab2opf.exe** (using -utf option) from [1manfactory.com](https://1manfactory.com/create-your-own-kindle-dictionary-for-every-language-for-free/). I runned this tool under Linux, using Wine.
+2. I created the **opf** and **html** files with **tab2opf.exe** (using -utf option) from [1manfactory.com](https://1manfactory.com/create-your-own-kindle-dictionary-for-every-language-for-free/). I ran this tool under Linux, using Wine.
 3. I edited the **opf** and **html** files using a text editor.
 4. I created the **mobi** file with [kindlegen for Linux](https://aur.archlinux.org/packages/kindlegen).
 
