@@ -49,7 +49,7 @@ For the creation of this dictionary, I used the following procedure:
 - [MyEnglishGreekDict.mobi](https://github.com/ahtrahddis/MyEnglishGreekDict/raw/main/MyEnglishGreekDict.mobi)
 
 
-### Installation instructions
+## Installation instructions
 
 1. Connect your Kindle with your Laptop/PC
 2. Copy MyEnglishGreekDict.mobi to /documents/dictionaries folder
@@ -59,4 +59,4 @@ For the creation of this dictionary, I used the following procedure:
 **Notes:** 
 
 - This file has been tested with only Paperwhite 3 and 5 devices and the latest available firmware. 
-- I suggest you to add [freeeneldict](https://freeeneldict.wordpress.com/) too and use it along with this one.
+- I suggest you to add [freeeneldict](https://freeeneldict.wordpress.com/) too and use it along with this one!
