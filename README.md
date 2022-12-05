@@ -45,3 +45,18 @@ For the creation of this dictionary, I used the following procedure:
 
 
 ## Download (V 1.00 - 2022-12-05)
+
+- [MyEnglishGreekDict.mobi](https://github.com/ahtrahddis/MyEnglishGreekDict/raw/main/MyEnglishGreekDict.mobi)
+
+
+### Installation instructions
+
+1. Connect your Kindle with your Laptop/PC
+2. Copy MyEnglishGreekDict.mobi to /documents/dictionaries folder
+3. Don't use it as your default dictionary - having an English - English as your default ensures that your Kindle will use it as a fallback dictionary. Instead choose it from within the book you are currently reading. 
+
+
+**Notes:** 
+
+- This file has been tested with only Paperwhite 3 and 5 devices and the latest available firmware. 
+- I suggest you to add [freeeneldict](https://freeeneldict.wordpress.com/) too and use it along with this one.
