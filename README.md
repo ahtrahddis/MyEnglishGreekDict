@@ -51,7 +51,8 @@ For the creation of this dictionary, I used the following procedure:
 
 1. Connect your Kindle with your Laptop/PC
 2. Copy MyEnglishGreekDict.mobi to /documents/dictionaries folder
-3. Don't use it as your default dictionary - having an English - English as your default ensures that your Kindle will use it as a fallback dictionary. Instead choose it from within the book you are currently reading. 
+3. Restart your Kindle
+4. Don't use it as your default dictionary - having an English - English as your default ensures that your Kindle will use it as a fallback dictionary. Instead choose it from within the book you are currently reading. 
 
 
 **Notes:** 
