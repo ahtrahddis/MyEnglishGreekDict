@@ -1,0 +1,45 @@
+<?xml version="1.0"?><!DOCTYPE package SYSTEM "oeb1.ent">
+
+<!-- this dictionary is licensed under CC BY-NC-SA 4.0-->
+
+<!-- the command line instruction 'prcgen dictionary.opf' will produce the dictionary.prc file in the same folder-->
+<!-- the command line instruction 'mobigen dictionary.opf' will produce the dictionary.mobi file in the same folder-->
+
+<package unique-identifier="uid" xmlns:dc="Dublin Core">
+
+<metadata>
+	<dc-metadata>
+		<dc:Identifier id="uid">MyEnglishGreekDict</dc:Identifier>
+		<!-- Title of the document -->
+		<dc:Title><h2>My English to Greek Dictionary</h2></dc:Title>
+		<dc:Language>EN</dc:Language>
+	</dc-metadata>
+	<x-metadata>
+
+		<DictionaryInLanguage>en-us</DictionaryInLanguage>
+		<DictionaryOutLanguage>el</DictionaryOutLanguage>
+	</x-metadata>
+</metadata>
+
+<!-- list of all the files needed to produce the .prc file -->
+<manifest>
+ <item id="dictionary0" href="MyEnglishGreekDict0.html" media-type="text/x-oeb1-document"/>
+ <item id="dictionary1" href="MyEnglishGreekDict1.html" media-type="text/x-oeb1-document"/>
+ <item id="dictionary2" href="MyEnglishGreekDict2.html" media-type="text/x-oeb1-document"/>
+ <item id="dictionary3" href="MyEnglishGreekDict3.html" media-type="text/x-oeb1-document"/>
+ <item id="dictionary4" href="MyEnglishGreekDict4.html" media-type="text/x-oeb1-document"/>
+</manifest>
+
+
+<!-- list of the html files in the correct order  -->
+<spine>
+	<itemref idref="dictionary0"/>
+	<itemref idref="dictionary1"/>
+	<itemref idref="dictionary2"/>
+	<itemref idref="dictionary3"/>
+	<itemref idref="dictionary4"/>
+</spine>
+
+<tours/>
+<guide> <reference type="search" title="Dictionary Search" onclick= "index_search()"/> </guide>
+</package>

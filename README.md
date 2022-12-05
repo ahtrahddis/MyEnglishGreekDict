@@ -11,7 +11,7 @@ Most probably, this used to be a Babylon community dictionary of the early 00's.
 	wordcount	48527
 	synwordcount	45198
 	idxfilesize	896658
-	author	Giannacoulis George
+	author 	Giannacoulis George
 
 
 ### Dictionary description in Greek 
@@ -42,9 +42,9 @@ For the creation of this dictionary, I used the following procedure:
 4. I created the **mobi** file with [kindlegen for Linux](https://aur.archlinux.org/packages/kindlegen).
 
 
-## Download (V 1.00 - 2022-12-05)
+## Download (V 1.1 - 2022-12-05)
 
-- [MyEnglishGreekDict.mobi](https://github.com/ahtrahddis/MyEnglishGreekDict/raw/main/MyEnglishGreekDict.mobi)
+- [MyEnglishGreekDict.mobi](https://github.com/ahtrahddis/MyEnglishGreekDict/raw/main/MyEnglishGreekDict_11.mobi)
 
 
 ## Installation instructions
@@ -58,3 +58,7 @@ For the creation of this dictionary, I used the following procedure:
 
 - This file has been tested with only Paperwhite 3 and 5 devices and the latest available firmware. 
 - I suggest you to add [freeeneldict](https://freeeneldict.wordpress.com/) too and use it along with this one!
+
+## Changelog
+- V 1.0 - Initial commit
+- V 1.1 - various fixes (typos) & enhancements in html formatting
