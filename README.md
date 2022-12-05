@@ -1,4 +1,4 @@
-# My English to Greek Dictionary - a free English to Greek dictionary for Kindle
+# MyEnglishGreekDict - a free English to Greek dictionary for Kindle
 
 This Kindle dictionary is the result of a **StarDict** to **mobi** conversion of an old **English to Greek** dictionary found on [Mobileread](https://www.mobileread.com/forums/showthread.php?t=288657).
 
