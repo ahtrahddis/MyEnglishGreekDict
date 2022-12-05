@@ -1,0 +1,14 @@
+##name	My English - Greek
+##version	2.4.2
+##wordcount	48527
+##synwordcount	45198
+##idxfilesize	896658
+##author	Giannacoulis George
+##description	English - Greek dictionary. http://users.sch.gr/gyiann Αγγλοελληνικό λεξικό με πάνω από 48000 λέξεις, ειδικούς όρους (από διάφορα επιστημονικά πεδία), ιδιωματισμούς και παροιμίες. Το λεξικό εμπλουτίζεται διαρκώς, συμπληρώνονται νέοι όροι και προστίθενται ερμηνείες ενώ  ταυτόχρονα γίνονται, όπου κρίνονται  απαραίτητες,  σχετικές διορθώσεις. Επιπροσθέτως τελευταία γίνεται προσπάθεια παράθεσης παραδειγμάτων χρήσης  των λέξεων.
+
+pyglossary
+tab2opf.ext -utf blabla.txt
+kindlegen MyEnglishGreek.opf
+
+<!-- this document is licensed under CC BY-NC-SA 4.0 -->
+<!-- https://creativecommons.org/licenses/by-nc-sa/4.0/ -->
