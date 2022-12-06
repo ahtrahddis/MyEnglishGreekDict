@@ -56,7 +56,7 @@ For the creation of this dictionary, I used the following procedure:
 
 **Notes:** 
 
-- This file has been tested with only Paperwhite 3 and 5 devices and the latest available firmware. 
+- This file has been tested with Paperwhite 7th and 11th generation, running the latest available firmware.
 - I suggest you to add [freeeneldict](https://freeeneldict.wordpress.com/) too and use it along with this one!
 
 ## Changelog
