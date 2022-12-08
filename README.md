@@ -1,6 +1,6 @@
 # MyEnglishGreekDict - a free English to Greek dictionary for Kindle
 
-This Kindle dictionary is the result of a **StarDict** to **mobi** conversion of an old **English to Greek** dictionary found on [Mobileread](https://www.mobileread.com/forums/showthread.php?t=288657).
+This Kindle dictionary is the result (actually fork) of a **StarDict** to **mobi** conversion of an old **English to Greek** dictionary found on [Mobileread](https://www.mobileread.com/forums/showthread.php?t=288657).
 
 Most probably, this used to be a Babylon community dictionary of the early 00's.
 
@@ -42,15 +42,15 @@ For the creation of this dictionary, I used the following procedure:
 4. I created the **mobi** file with [kindlegen for Linux](https://aur.archlinux.org/packages/kindlegen).
 
 
-## Download (V 1.1 - 2022-12-05)
+## Download (V 1.2 - 2022-12-08)
 
-- [MyEnglishGreekDict_11.mobi](https://github.com/ahtrahddis/MyEnglishGreekDict/raw/main/MyEnglishGreekDict_11.mobi)
+- [MyEnglishGreekDict_12.mobi](https://github.com/ahtrahddis/MyEnglishGreekDict/raw/main/MyEnglishGreekDict_12.mobi)
 
 
 ## Installation instructions
 
 1. Connect your Kindle with your Laptop/PC.
-2. Copy MyEnglishGreekDict.mobi to /documents/dictionaries folder.
+2. Copy MyEnglishGreekDictXX.mobi to /documents/dictionaries folder.
 3. Unmount, disconnect and restart your Kindle.
 4. Don't use it as your default dictionary - having an English to English as your default one, ensures that your Kindle will use it as a fallback solution. Instead, choose *"My English to Greek Dictionary"* from within the book you are currently reading. 
 
@@ -60,5 +60,6 @@ For the creation of this dictionary, I used the following procedure:
 - I suggest you to add [freeeneldict](https://freeeneldict.wordpress.com/) too and use it along with this one!
 
 ## Changelog
-- V 1.0 - Initial commit
+- V 1.2 - various fixes (typos) & enhancements in html formatting
 - V 1.1 - various fixes (typos) & enhancements in html formatting
+- V 1.0 - Initial commit
