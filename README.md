@@ -42,9 +42,9 @@ For the creation of this dictionary, I used the following procedure:
 4. I created the **mobi** file with [kindlegen for Linux](https://aur.archlinux.org/packages/kindlegen).
 
 
-## Download (V 1.2 - 2022-12-08)
+## Download (V 1.3 - 2022-12-16)
 
-- [MyEnglishGreekDict_12.mobi](https://github.com/ahtrahddis/MyEnglishGreekDict/raw/main/MyEnglishGreekDict_12.mobi)
+- [MyEnglishGreekDict_12.mobi](https://github.com/ahtrahddis/MyEnglishGreekDict/raw/main/MyEnglishGreekDict_13.mobi)
 
 
 ## Installation instructions
@@ -60,6 +60,7 @@ For the creation of this dictionary, I used the following procedure:
 - I suggest you to add [freeeneldict](https://freeeneldict.wordpress.com/) too and use it along with this one!
 
 ## Changelog
+- V 1.3 - various fixes (typos)
 - V 1.2 - various fixes (typos) & enhancements in html formatting
 - V 1.1 - various fixes (typos) & enhancements in html formatting
 - V 1.0 - Initial commit
