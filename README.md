@@ -44,7 +44,7 @@ For the creation of this dictionary, I used the following procedure:
 
 ## Download (V 1.3 - 2022-12-16)
 
-- [MyEnglishGreekDict_12.mobi](https://github.com/ahtrahddis/MyEnglishGreekDict/raw/main/MyEnglishGreekDict_13.mobi)
+- [MyEnglishGreekDict_13.mobi](https://github.com/ahtrahddis/MyEnglishGreekDict/raw/main/MyEnglishGreekDict_13.mobi)
 
 
 ## Installation instructions
